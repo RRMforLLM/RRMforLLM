@@ -26,7 +26,7 @@ This isn’t a portfolio—it’s a working directory. Repos here range from aut
 - Build small, composable pieces.
 - Automate what’s tedious *but* meaningful.
 - Use classification and structure to make systems more understandable, not more complicated.
-- Interfaces shouldn’t just display data—they should ask better questions.
+- If a UI isn’t helping you think or act faster, it’s wasting your time.
 
 ## ⚙️ Repo visibility
 
