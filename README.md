@@ -13,7 +13,7 @@ This isn’t a portfolio—it’s a working directory. Repos here range from aut
   - `keeper-engine`, `playlist-classifier`, `tweet-puller` — Systems that parse, sort, and keep track of inputs across various contexts.
   
 - **Interface Logic & UI Experiments**
-  - `aghendi`, `leghendi`, `aghendi-info` — TypeScript-based UIs for collective planning, identity expression, and shared intent models.
+  - `aghendi`, `leghendi` — TypeScript-based UIs for collective planning, identity expression, and shared intent models.
 
 - **Personal Ops & Visualization**
   - `portfolio-tracker` (Swift), `mypayload` — Data visibility, local-first dashboards, and presentation layers for personal metrics.
