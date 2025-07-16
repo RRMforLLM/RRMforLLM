@@ -4,23 +4,6 @@ A collection of tools, experiments, and systems I’m actively building, maintai
 
 This isn’t a portfolio—it’s a working directory. Repos here range from automation frameworks to interface logic to personal infrastructure. Some are solo utilities, others are part of broader frameworks I’m still piecing together.
 
-## 🔧 Core areas
-
-- **Automation & Cleanup**
-  - `auditron`, `automation-lab`, `code-vacuum` — Workflow bots, cleanup utilities, internal dev hygiene tools.
-  
-- **Classification & Data Handling**
-  - `keeper-engine`, `playlist-classifier`, `tweet-puller` — Systems that parse, sort, and keep track of inputs across various contexts.
-  
-- **Interface Logic & UI Experiments**
-  - `aghendi`, `leghendi` — TypeScript-based UIs for collective planning, identity expression, and shared intent models.
-
-- **Personal Ops & Visualization**
-  - `portfolio-tracker` (Swift), `mypayload` — Data visibility, local-first dashboards, and presentation layers for personal metrics.
-
-- **Agendas & Collaboration Models**
-  - `collective-agenda`, `concept-collective-agenda`, `charflow`, `termshapes` — Explorations in how people organize around ideas and time. Mostly unfinished by design.
-
 ## 🧠 If there’s a pattern, it’s probably this:
 
 - Build small, composable pieces.
