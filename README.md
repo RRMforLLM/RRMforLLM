@@ -1,5 +1,3 @@
-### Ricardo Robles
-
 Undergraduate in Data Science and Applied Mathematics at Universidad Autónoma de Chihuahua (UACH).
 
 - **Research:** Plane-wave DFT (`GPAW`/`PBE`) and 8-qubit AVAS-VQE (`PySCF`/`Qiskit`) modeling hydrogen embrittlement at $\Sigma 3(112)$ grain boundaries in BCC $\alpha$-Fe.
