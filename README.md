@@ -19,5 +19,5 @@ A lot of what I work on is private while it’s in flux. Public repos are either
 
 ## 👋 Quick note
 
-This space evolves with what I’m learning. It’s not polished, it’s not branded—it’s just active.  
+This space evolves with what I’m learning. It’s not polished, it’s not branded: it’s just active.  
 If you’re building anything related or curious about something here, reach out.
