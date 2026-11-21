@@ -1,23 +1,8 @@
-# RRMforLLM
+### Ricardo Robles
 
-A collection of tools, experiments, and systems I’m actively building, maintaining, or dissecting.
+Undergraduate in Data Science and Applied Mathematics at Universidad Autónoma de Chihuahua (UACH).
 
-This isn’t a portfolio—it’s a working directory. Repos here range from automation frameworks to interface logic to personal infrastructure. Some are solo utilities, others are part of broader frameworks I’m still piecing together.
-
-## 🧠 If there’s a pattern, it’s probably this:
-
-- Build small, composable pieces.
-- Automate what’s tedious *but* meaningful.
-- Use classification and structure to make systems more understandable, not more complicated.
-- If a UI isn’t helping you think or act faster, it’s wasting your time.
-
-## ⚙️ Repo visibility
-
-A lot of what I work on is private while it’s in flux. Public repos are either:
-- Final-ish versions of things I use regularly, or
-- Open thoughts I’m putting out there in case someone finds them useful.
-
-## 👋 Quick note
-
-This space evolves with what I’m learning. It’s not polished, it’s not branded: it’s just active.  
-If you’re building anything related or curious about something here, reach out.
+- **Research:** Plane-wave DFT (`GPAW`/`PBE`) and 8-qubit AVAS-VQE (`PySCF`/`Qiskit`) modeling hydrogen embrittlement at $\Sigma 3(112)$ grain boundaries in BCC $\alpha$-Fe.
+- **Credentials:** IBM Qiskit Advocate · AWS Knowledge: Amazon Braket
+- **Leadership:** Founder & Leader, AWS Student Builder Group UACH · Founder, Quantum Chihuahua
+- **Stack:** Python, C++, Qiskit, PennyLane, PySCF, GPAW, ASE, OpenCV, YOLOv8, FastAPI, AWS (EC2, S3, Lambda, Braket)
